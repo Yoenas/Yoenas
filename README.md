@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello ! 😄👋
 
 <!--
 **Yoenas/Yoenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### As an Android Developer here is my Github Statistic
+<p align="left">
+<a href="https://github.com/gilangadhan">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yoenas&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
