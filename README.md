@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### As an Android Developer here is my Github Statistic
+### As a Mobile Developer here is my Github Statistic
 <p align="left">
-<a href="https://github.com/gilangadhan">
+<a href="https://github.com/yoenas">
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yoenas&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
